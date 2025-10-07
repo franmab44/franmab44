@@ -20,7 +20,7 @@ Mi objetivo es aprender y dominar herramientas de **DevOps**, incluyendo **Terra
 ---
 
 ## 📘 Actualmente aprendiendo
-- Fundamentos de **DevOps** y pipelines CI/CD  
+- Fundamentos de **DevOps**. 
 - **Terraform** para infraestructura como código  
 - **Kubernetes** para orquestación de contenedores   
 - Mejores prácticas de scripting en **Linux y Python**
