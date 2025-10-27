@@ -20,20 +20,33 @@ Mi objetivo es aprender y dominar herramientas de **DevOps**, incluyendo **Terra
 ---
 
 ## 📘 Actualmente aprendiendo
-- Fundamentos de **DevOps**. 
+- Fundamentos de **DevOps**  
 - **Terraform** para infraestructura como código  
-- **Kubernetes** para orquestación de contenedores   
+- **Kubernetes** para orquestación de contenedores  
 - Mejores prácticas de scripting en **Linux y Python**
 
 ---
 
+## 📊 Mis estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=franmab44&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franmab44&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=franmab44&theme=tokyonight&hide_border=true)
+
+---
 
 ## 🎯 Mi objetivo
 Convertirme en un profesional de **DevOps**, combinando mis conocimientos de sistemas y programación para gestionar infraestructuras modernas y automatizadas.
 
 ---
 
+## 🏆 Trofeos de GitHub
+![trophy](https://github-profile-trophy.vercel.app/?username=franmab44&theme=onedark&margin-w=15&margin-h=15)
+
+---
+
 ## 📫 Contacto
 - ✉️ Email: `franciscomateosbufi@gmail.com`  
-- 🐙 GitHub: [github.com/franmab44](#)
-
+- 🐙 GitHub: [github.com/franmab44](https://github.com/franmab44)
