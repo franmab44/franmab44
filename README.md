@@ -12,7 +12,7 @@ Mi objetivo es aprender y dominar herramientas de **DevOps**, incluyendo **Terra
 
 ## 🔧 Tecnologías y herramientas
 - **Sistemas:** Linux (administración básica y scripting)  
-- **Lenguajes:** Python 🐍 · HTML · CSS · SQL · aprendiendo PHP  
+- **Lenguajes:** ![Python 🐍](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)· HTML · CSS · SQL · aprendiendo PHP  
 - **DevOps (aprendiendo):** Terraform, Kubernetes 
 - **Herramientas:** Git, Bash, VirtualBox, VSCode  
 - **Intereses:** Automatización, infraestructura como código, despliegues y cloud computing ☁️
@@ -29,8 +29,6 @@ Mi objetivo es aprender y dominar herramientas de **DevOps**, incluyendo **Terra
 
 ## 📊 Mis estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=franmab44&show_icons=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franmab44&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=franmab44&theme=tokyonight&hide_border=true)
@@ -39,11 +37,6 @@ Mi objetivo es aprender y dominar herramientas de **DevOps**, incluyendo **Terra
 
 ## 🎯 Mi objetivo
 Convertirme en un profesional de **DevOps**, combinando mis conocimientos de sistemas y programación para gestionar infraestructuras modernas y automatizadas.
-
----
-
-## 🏆 Trofeos de GitHub
-![trophy](https://github-profile-trophy.vercel.app/?username=franmab44&theme=onedark&margin-w=15&margin-h=15)
 
 ---
 
