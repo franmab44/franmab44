@@ -38,7 +38,7 @@ Mi objetivo es aprender y dominar herramientas de **DevOps**, incluyendo **Terra
 
 ## 📊 Mis estadísticas de GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franmab44&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franmabb&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=franmab44&theme=tokyonight&hide_border=true)
 
